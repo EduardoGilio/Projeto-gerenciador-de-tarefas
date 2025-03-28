@@ -7,11 +7,11 @@ O Gerenciador de Tarefas é uma aplicação web simples, desenvolvida com HTML, 
 1. HTML (index.html)
  O HTML fornece a estrutura básica da aplicação. Ele contém:
 
-- Um campo de entrada (<input>) para que o usuário digite novas tarefas.
+- Um campo de entrada `<input>` para que o usuário digite novas tarefas.
 
 - Um botão para adicionar tarefas.
 
-- Uma lista (<ul>) onde as tarefas serão exibidas.
+- Uma lista `<ul>` onde as tarefas serão exibidas.
 
 - Um script externo (script.js) responsável pelas funcionalidades.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
