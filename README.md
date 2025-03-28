@@ -18,20 +18,20 @@ O HTML fornece a estrutura básica da aplicação. Ele contém:
 2. CSS (styles.css)
  A estilização do projeto melhora a experiência do usuário:
 
--> Layout centralizado, com um contêiner estilizado.
+- Layout centralizado, com um contêiner estilizado.
 
--> Botões e campos de entrada estilizados para melhor usabilidade.
+- Botões e campos de entrada estilizados para melhor usabilidade.
 
--> Destaque visual para tarefas concluídas, que ficam riscadas e com coloração diferenciada.
+- Destaque visual para tarefas concluídas, que ficam riscadas e com coloração diferenciada.
 
 3. JavaScript (script.js)
 O JavaScript adiciona interatividade ao projeto:
 
--> Adição de tarefas: Quando o usuário digita uma tarefa e clica no botão, a tarefa é inserida na lista.
+- Adição de tarefas: Quando o usuário digita uma tarefa e clica no botão, a tarefa é inserida na lista.
 
--> Marcar tarefa como concluída: Um botão "Concluir" é adicionado a cada tarefa e, ao ser clicado, altera a aparência da tarefa para indicar que foi finalizada.
+- Marcar tarefa como concluída: Um botão "Concluir" é adicionado a cada tarefa e, ao ser clicado, altera a aparência da tarefa para indicar que foi finalizada.
 
--> Validação de entrada: Se o usuário tentar adicionar uma tarefa vazia, um alerta será exibido.
+- Validação de entrada: Se o usuário tentar adicionar uma tarefa vazia, um alerta será exibido.
 
 Funcionalidades
 ✅ Adicionar novas tarefas
