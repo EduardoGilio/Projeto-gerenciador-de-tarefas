@@ -35,8 +35,12 @@ O Gerenciador de Tarefas é uma aplicação web simples, desenvolvida com HTML, 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Funcionalidades
 ✅ Adicionar novas tarefas
+
 ✅ Exibir lista de tarefas
+
 ✅ Marcar tarefas como concluídas
+
 ✅ Feedback visual para tarefas concluídas
+
 ✅ Design responsivo e intuitivo
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
